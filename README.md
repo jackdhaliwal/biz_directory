@@ -1,8 +1,6 @@
 # BizDirectory
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/biz_directory`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+BizDirectory is a Ruby Wrapper gem that acts as a directory of all businesses that are registered in San Francisco, California. This is Brinder Dhaliwal's first gem and is currently released without TDD. Please email Brinder @ brinder.dhaliwal13@gmail.com if you have any questions! 
 
 ## Installation
 

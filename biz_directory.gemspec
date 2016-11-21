@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Brinder Dhaliwal"]
   spec.email         = ["brinder.dhaliwal13@gmail.com"]
 
-  spec.summary       = %q{A Ruby gem wrapper for SF Registered Business Directory}
+  spec.summary       = %q{A Ruby gem wrapper for businesses registered in SF.}
   spec.description   = %q{Directory of businesses that are registered in the city of San Francisco California. }
   spec.homepage      = "https://github.com/jackdhaliwal/biz_directory"
   spec.license       = "MIT"
